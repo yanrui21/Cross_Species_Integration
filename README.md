@@ -9,7 +9,6 @@ This repository contains an R script used to process and compare single-cell RNA
 | `Cross_Species_Integration.R` | Analysis script. |
 | `README.md` | This documentation. |
 
-**Scope and reproducibility:** This is an analysis record, **not a turnkey, independently tested pipeline**. The script contains earlier and later analysis variants, requires input files that are **not included** here, and uses computer-specific paths. The corrected script has not been executed end-to-end against the original datasets as part of this repository preparation.
 
 ## What the script does
 
