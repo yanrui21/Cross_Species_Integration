@@ -41,7 +41,7 @@ Citation:
   journal = {bioRxiv},
   year    = {2026},
   doi     = {10.64898/2026.09.17.752534},
-  url     = {[https://www.nature.com/articles/s41467-025-65644-9](https://www.biorxiv.org/content/10.64898/2026.09.17.752534v1}
+  url     = {https://www.biorxiv.org/content/10.64898/2026.09.17.752534v1}
 }
 
 ```
